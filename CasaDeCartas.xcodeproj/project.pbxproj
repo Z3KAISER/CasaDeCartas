@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF62ED8F1D62CB4400B66780 /* RGBUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF62ED8E1D62CB4400B66780 /* RGBUIColor.swift */; };
 		BF823CFF1D626E1900AA1B04 /* CasaDeCartas.h in Headers */ = {isa = PBXBuildFile; fileRef = BF823CFE1D626E1900AA1B04 /* CasaDeCartas.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		BF823D061D626E1900AA1B04 /* CasaDeCartas.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF823CFB1D626E1900AA1B04 /* CasaDeCartas.framework */; };
 		BF823D0B1D626E1900AA1B04 /* CasaDeCartasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF823D0A1D626E1900AA1B04 /* CasaDeCartasTests.swift */; };
@@ -38,6 +39,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BF62ED8E1D62CB4400B66780 /* RGBUIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RGBUIColor.swift; sourceTree = "<group>"; };
 		BF823CFB1D626E1900AA1B04 /* CasaDeCartas.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CasaDeCartas.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF823CFE1D626E1900AA1B04 /* CasaDeCartas.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CasaDeCartas.h; sourceTree = "<group>"; };
 		BF823D001D626E1900AA1B04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				BF823D361D62804B00AA1B04 /* CasaDeCartasCollectionViewLayout.swift */,
 				BF823D371D62804B00AA1B04 /* CasaDeCartasCollectionViewController.swift */,
 				BF823D381D62804B00AA1B04 /* CasaDeCartasCollectionViewCell.swift */,
+				BF62ED8E1D62CB4400B66780 /* RGBUIColor.swift */,
 				BF823CFE1D626E1900AA1B04 /* CasaDeCartas.h */,
 				BF823D001D626E1900AA1B04 /* Info.plist */,
 			);
@@ -250,6 +253,7 @@
 				BF823D3B1D62804B00AA1B04 /* CasaDeCartasCollectionViewCell.swift in Sources */,
 				BF823D391D62804B00AA1B04 /* CasaDeCartasCollectionViewLayout.swift in Sources */,
 				BF823D3A1D62804B00AA1B04 /* CasaDeCartasCollectionViewController.swift in Sources */,
+				BF62ED8F1D62CB4400B66780 /* RGBUIColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
