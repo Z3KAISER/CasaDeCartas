@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "CasaDeCartas"
-  spec.version = "0.2.0"
+  spec.version = "0.1.2"
   spec.summary = "A functional and reacive card stack collection"
   spec.homepage = "https://github.com/z3kaiser/CasaDeCartas"
   spec.license = { type: 'MIT', file: 'LICENSE' }
