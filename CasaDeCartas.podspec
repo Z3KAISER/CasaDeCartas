@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "CasaDeCartas"
-  spec.version = "0.1.2"
+  spec.version = "0.1.3"
   spec.summary = "A functional and reacive card stack collection"
   spec.homepage = "https://github.com/z3kaiser/CasaDeCartas"
   spec.license = { type: 'MIT', file: 'LICENSE' }
@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
   spec.platform = :ios, "9.1"
   spec.requires_arc = true
-  spec.source = { git: "https://github.com/z3kaiser/CasaDeCartas.git", tag: "v#{spec.version}", submodules: true }
+  spec.source = { git: "https://github.com/z3kaiser/CasaDeCartas.git", tag: "#{spec.version}", submodules: true }
   spec.source_files = "CasaDeCartas/**/*.{h,swift}"
 
   spec.dependency "RxSwift", "~> 2.0"
